@@ -1,6 +1,3 @@
-<h1 align="center">henlo</h1>
-<p></p>
-
 ```
 making a haiku
 about how to cook cookies
