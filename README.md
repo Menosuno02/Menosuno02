@@ -1,6 +1,6 @@
 ```
 making a haiku
-about how to make cookies
+about how to cook cookies
 with sugar and JS
 ```
 
