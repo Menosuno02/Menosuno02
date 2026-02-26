@@ -10,4 +10,4 @@ with sugar and JS
 - ❄️ [Iceberg](https://github.com/Menosuno02/iceberg) - higher education degree's final project, social networking web app
 - 🦌 [Downloadeer](https://github.com/Menosuno02/Downloadeer) - download videos easily with ffmpeg and yt-dlp
 - 📼 [Rekōdā](https://rekoda3.vercel.app/) - study japanese with anki flashcards
-- 🎨 [Matiz](https://matiz-cm.vercel.app) - are you good at memorizing colors?
+- 🎨 [Matiz](https://matiz-cm.vercel.app) - are you good at recalling colors?
