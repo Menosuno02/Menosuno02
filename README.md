@@ -11,3 +11,4 @@ with sugar and JS
 - 📼 [Rekōdā](https://rekoda3.vercel.app/) - study japanese with flashcards
 - 🦌 [Downloadeer](https://github.com/Menosuno02/Downloadeer) - download videos easily with ffmpeg and yt-dlp
 - 🎨 [Matiz](https://matiz-cm.vercel.app) - are you good at recalling colors?
+- 💵 [Steam Wishlist Minimum Value](https://github.com/Menosuno02/steam-wishlist-lowest-price) - Steam wishlist values
